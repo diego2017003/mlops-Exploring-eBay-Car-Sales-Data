@@ -51,6 +51,9 @@ proposto pelo módulo pandas e numpy dentro do dataquest. O projeto conta com du
      Sobre alguns campos e suas correlações para gerar insigths a respeito de preços e o quanto os valores se relacionam.
      * Bônus: Foi inserida uma função chamda analyse que faz o plot da correlação com mapa de calor e um pairplot utilizando o módulo seaborn para gráficos.
      
-    *Etapa 2: Condesamos e adaptamos o código para um script python no intuito de aplicar a ferramenta pylint. A ferramenta pylint foi utilizada para testarmos os conceitos de código limpo. O script teve score 9.02 devido a falha no módulo docstring.  O script não possui todas as funcionalidade de análise do notebook entretanto foi feita uma daptação de alguns blocos de código para funções.  
+    *Etapa 2: Condesamos e adaptamos o código para um script python no intuito de aplicar a ferramenta pylint. 
+    A ferramenta pylint foi utilizada para testarmos os conceitos de código limpo. O script teve score 9.02
+    devido a falha no módulo docstring.  O script não possui todas as funcionalidade de análise do notebook 
+    entretanto foi feita uma daptação de alguns blocos de código para funções.  
     
     

@@ -5,7 +5,9 @@ proposto pelo módulo pandas e numpy dentro do dataquest. O projeto conta com du
     * Etapa 1: diz respeito à criação de um jupyter notebook com a análise exploratória dos dados de automóveis do ebay alemão.
       
         ### Detalhes do dataset
-        O dataset se trata de um conjunto de dados sobre carros usados encontrados em um site do Ebay da Alemanha. São 50000 registros e 20 colunas e as descrições em        inglês são:
+        O dataset se trata de um conjunto de dados sobre carros usados encontrados em um site do Ebay da Alemanha. 
+        São 50000 registros e 20 colunas e as descrições em        
+        inglês são:
     
         1. dateCrawled - When this ad was first crawled. All field-values are taken from this date.
     
@@ -47,9 +49,12 @@ proposto pelo módulo pandas e numpy dentro do dataquest. O projeto conta com du
         
         20. lastSeenOnline - When the crawler saw this ad last online.
 
-     2. Nessa etapa iremos tratar de extrair, limpar e tranformar os dados para que fiquem próprios para uso e análise. Após a limpeza será feita uma análise
-     Sobre alguns campos e suas correlações para gerar insigths a respeito de preços e o quanto os valores se relacionam.
-     * Bônus: Foi inserida uma função chamda analyse que faz o plot da correlação com mapa de calor e um pairplot utilizando o módulo seaborn para gráficos.
+     2. Nessa etapa iremos tratar de extrair, limpar e tranformar os dados para que 
+     fiquem próprios para uso e análise. Após a limpeza será feita uma análise
+     Sobre alguns campos e suas correlações para gerar insigths a respeito de preços 
+     e o quanto os valores se relacionam.
+     * Bônus: Foi inserida uma função chamda analyse que faz o plot da correlação com mapa de calor 
+     e um pairplot utilizando o módulo seaborn para gráficos.
      
     *Etapa 2: Condesamos e adaptamos o código para um script python no intuito de aplicar a ferramenta pylint. 
     A ferramenta pylint foi utilizada para testarmos os conceitos de código limpo. O script teve score 9.02
